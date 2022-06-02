@@ -17,3 +17,6 @@ PRODUCT_PACKAGES += \
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
+
+# Prebuilt headers
+PRODUCT_VENDOR_KERNEL_HEADERS := kernel/motorola/kernel-headers
