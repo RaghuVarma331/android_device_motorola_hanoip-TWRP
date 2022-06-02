@@ -68,3 +68,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES_ENG += \
     qcom_decrypt \
     qcom_decrypt_fbe
+
+# tzdata
+PRODUCT_PACKAGES_ENG += \
+    tzdata_twrp
