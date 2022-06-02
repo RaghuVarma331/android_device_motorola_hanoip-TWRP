@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_hanoip.mk
+    $(LOCAL_DIR)/twrp_hanoip.mk
 
